@@ -1,0 +1,1 @@
+export const domId = process.env.VUE_APP_DOM_ID;
